@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmwtdmn.github.io/app-policies/sitemap.xml
